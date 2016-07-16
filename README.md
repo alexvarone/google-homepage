@@ -1,1 +1,5 @@
-# google-homepage
+
+Web Development - Google Project
+
+http://www.theodinproject.com/web-development-101/html-css
+
